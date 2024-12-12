@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: incorrect variable scoping within procedures.  The `bug.tcl` file contains code that exhibits the error, while `bugSolution.tcl` provides the corrected version. The issue stems from improper use of variable substitution within the procedure, leading to unexpected behavior.
